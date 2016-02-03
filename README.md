@@ -1,3 +1,1 @@
-# first-step
-
-New in GitHub
+# home
